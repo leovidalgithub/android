@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My TestView App</string>
+    <string name="activity1">Activity1</string>
+</resources>

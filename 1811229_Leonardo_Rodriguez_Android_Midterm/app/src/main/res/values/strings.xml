@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Converter App</string>
+    <string name="err_msg">Oops! The number you have introduced is not correct!</string>
+    <string name="only_numbers_msg">(remember to introduce only numbers)</string>
+</resources>
+
