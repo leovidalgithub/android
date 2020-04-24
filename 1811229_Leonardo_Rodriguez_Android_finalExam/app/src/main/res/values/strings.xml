@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="currencies">
+        <item>Dollar</item>
+        <item>Yen</item>
+        <item>Real</item>
+    </string-array>
+</resources>
